@@ -1,3 +1,8 @@
+Erez Sarousi
+Professor Williams
+DSC 540 - Data Preparation
+March 6, 2021
+
 Throughout this course, I have learned a lot as to how to prepare data so that analysis can begin. 
 
 I have learned how to load different files of different formats, including database files. This involves an introduction to SQL. 
