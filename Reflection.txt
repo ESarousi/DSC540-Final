@@ -1,0 +1,25 @@
+Throughout this course, I have learned a lot as to how to prepare data so that analysis can begin. 
+
+I have learned how to load different files of different formats, including database files. This involves an introduction to SQL. 
+
+I have strengthened a lot of the Python skills from previous courses, such as loops, APIs through JSON and formatting between lists, objects, tuples and strings. 
+
+Beyond that, I've learned a lot of new topics, such as bs4, zip functions, regular expression tools and parsing through both API in more depth as well as the HTML webscraping.  
+
+While I felt that I learned a lot of lessons, I also feel that the greatest lesson of all was the hollistic combination of everything which leads to finished projects is a good milestone of how far we have come. 
+
+One thing that I wanted to point out that I found out that was invaluable was the introduction to SQL. While I found this part incredibly brief, it proves itself vital to efficient data science preparation. It processes a lot of information extremely quickly and does it in a much simpler way than Python many times.
+
+Furthermore, I feel that I would be remiss if I didn't learn something that I feel which is quite universal regardless of jobs - knowing your resources. Throughout the semester, I've found knowledge after collaborating with professors, colleagues, and different websites such as Stackexchange, Reddit, Wyzant tutoring, and the different specialty companies such as Medium, TowardsDataScience, Kaggle, and many of the other resources
+
+Lastly, but certainly not least, I learned a lot by being exposed to the information. Much like a tourist seeking to learn another language, being immersed in the new culture would help foster immersion. This is also true with myself and absorption of Python. I would say that compared to the beginning of the semester, I feel much more comfortable about the documentations, and how to properly articulate what I'm trying to solve when searching for an answer.
+
+To complete this project, I had to find the topic I wanted. I had to create a list in order to construct the headers. I had to use fuzzy matching to fit the correct drug with the correct label. I also had to delete duplicate or bad information.
+
+When it came to webscraping, I had to parse through the soup text, format the contents to be properly using regular expressions so that everything can smoothly transfer to the final project.
+
+As far as the JSON is concerned, once I connected to the API, I had to find the proper overdose and side effect data from the proper lists, I had to parse the data properly by splitting the text.
+
+In order to connect everything to the final project, I had to convert each portion as a table within SQL and then connect it the final project.
+
+Thank you for all your help, Professor. I sincerely enjoyed and learned a lot from this course!
